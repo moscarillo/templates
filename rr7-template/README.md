@@ -85,16 +85,6 @@ This template uses PostgreSQL with Prisma. The database runs in Docker for easy 
 - `npm run db:studio` - Open Prisma Studio
 - `npm run db:reset` - Reset database and run migrations
 
-## Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Set up your environment variables in Vercel dashboard
-4. Deploy!
-
-The `vercel.json` configuration is already included.
 
 ### Other Platforms
 
