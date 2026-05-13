@@ -1,0 +1,31 @@
+{
+  "include": [
+    "**/*",
+    "tests/**/*",
+    "app/**/*",
+    "prisma/**/*",
+    ".react-router/types/**/*",
+    "vite.config.ts",
+    "react-router.config.ts",
+    "tailwind.config.ts"
+  ],
+  "exclude": ["node_modules", "build", "dist", ".vercel", "coverage"],
+  "compilerOptions": {
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "types": ["node", "vite/client"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "jsx": "react-jsx",
+    "rootDirs": [".", "./.react-router/types"],
+    "paths": {
+      "~/*": ["./app/*"]
+    },
+    "esModuleInterop": true,
+    "verbatimModuleSyntax": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": true
+  }
+}
