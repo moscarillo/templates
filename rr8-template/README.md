@@ -1,10 +1,10 @@
-# React Router v7 + Tailwind + Prisma Template
+# React Router v8 + Tailwind + Prisma Template
 
-A modern, full-stack template with React Router v7, Tailwind CSS, Prisma, TypeScript, and comprehensive testing setup.
+A modern, full-stack template with React Router v8, Tailwind CSS, Prisma, TypeScript, and comprehensive testing setup.
 
 ## Features
 
-- ⚡ **React Router v7** - Latest version with file-based routing
+- ⚡ **React Router v8** - Latest version with file-based routing
 - 🎨 **Tailwind CSS** - Utility-first CSS framework
 - 🗄️ **Prisma** - Type-safe database ORM
 - 📝 **TypeScript** - Full type safety
@@ -99,7 +99,7 @@ The app builds to a standard Node.js server, so it can be deployed to any platfo
 
 ## Learn More
 
-- [React Router v7 Docs](https://reactrouter.com)
+- [React Router v8 Docs](https://reactrouter.com)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs)
 - [Prisma Docs](https://www.prisma.io/docs)
 - [Vitest Docs](https://vitest.dev)

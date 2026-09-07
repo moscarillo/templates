@@ -10,7 +10,7 @@ export default function Home() {
       <main className="container mx-auto px-4 py-8">
         <h1 className="text-4xl font-bold text-gray-900 mb-8">Welcome to Your App</h1>
         <p className="text-lg text-gray-600 mb-6">
-          This is your new React Router v7 + Tailwind + Prisma template!
+          This is your new React Router v8 + Tailwind + Prisma template!
         </p>
         <div className="bg-white p-6 rounded-lg shadow-md">
           <h2 className="text-xl font-semibold mb-4">Getting Started</h2>

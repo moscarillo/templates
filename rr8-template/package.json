@@ -1,5 +1,5 @@
 {
-  "name": "react-router-template",
+  "name": "rr8-template",
   "private": true,
   "type": "module",
   "scripts": {
@@ -66,13 +66,13 @@
     "prettier": "^3.3.3",
     "tailwindcss": "^4.1.17",
     "tsx": "^4.20.6",
-    "typescript": "^7.0.2",
+    "typescript": "^6.0.3",
     "vite": "^8.0.12",
     "vitest": "^5.0.0",
     "vitest-mock-extended": "^5.1.1"
   },
   "version": "1.0.0",
-  "description": "A modern React Router v7 + Tailwind + Prisma template",
+  "description": "A modern React Router v8 + Tailwind + Prisma template",
   "overrides": {
     "eslint-plugin-jsx-a11y": {
       "eslint": "$eslint"
